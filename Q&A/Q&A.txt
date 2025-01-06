@@ -1,0 +1,12 @@
+Q:
+找不到OpenAL32.dll是什么？
+A:
+Windows系统可以通过安装openAL解决。如果只是dll缺失，可以将文件夹中同名dll复制到OS(你的系统盘)/Windows/System32下
+Q:
+opengL32.dll呢？
+A:
+只要把第一个问题的A看成g就可以了。（可不是改dll名字！）
+Q:
+怎么感觉人机笨笨的？
+A:
+程序设计缺陷。

@@ -1,0 +1,32 @@
+1.EntryPoint
+what happened when launch the game, what controls
+2.ApplicationLayer
+deal with life circle/logical  issue/input/ and so on
+3.WindowLayer
+input and events----event managers needed(as seen in c#)
+4.Renderer
+do frame check an refresh the output
+5.RenderApi&abstraction
+to support multiple api, first OpenGL as learned
+6.DebuggingSupport
+to check and to trace performance and so on
+7.ScriptingLanguage
+like C#, to use senior language to create contents
+8.memory systems
+to nicely assign memory and reduce time spent
+9.Entity Component System(ECS)
+modulize and so on , to let our engine work on our data
+10.Physics
+11.File  IO  VFS
+12.BuildSystem
+to prepare all resource before runtime
+13.Mod and more
+
+
+cannot git clone     do it manually
+i can't connect to it so just do it by self
+Maybe i should do a personal engine
+
+very cazy info: i need do it as quick as possible, othewise i wouldn't have a framework to test any code that about that project
+
+the engine is much more powerful than committing just a single game
